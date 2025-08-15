@@ -1,8 +1,0 @@
-class san{
-pscm
-
-dddd
-vvvv
-
-vvvv
-}
